@@ -16,6 +16,7 @@ This project creates a volatility surface for a stock’s options using the Blac
   - Plots strike price, time to maturity (in days), and implied volatility.
  
 ## Example
+![AAPL Volatility Surface](/GraphSS.png?raw=true=)
 
 ## How It Works
 - 1.	Data Collection:
